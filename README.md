@@ -10,7 +10,7 @@ No he aplicado.
 ### 2.  Solictud del ***Student Devoloper Pack***.    
 
 Este pack ya lo tenía de cursos anteriores, pero cabe a destacar que es super 
-utíl para estudiar por el acceso que brinda a multiples herramientas de pago a 
+útil para estudiar por el acceso que brinda a multiples herramientas de pago a 
 las cuales no tendríamos acceso y esto de manera gratuita. Para solicitarlo es 
 bastante sencillo basta con solo rellenar un formulario y subir una imagen de 
 tu carnet estudiantil para acreditar tu *status* de estudiante y la respuesta 
